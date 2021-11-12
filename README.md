@@ -1,7 +1,7 @@
 # Phone_number_Tracker
 -----------------------------------------------
 
-Run = 
+Run = `git https://github.com/NxClayzane/Phone_number_Tracker.git`
 
 Install the required package from `Requirements.txt` 
 
